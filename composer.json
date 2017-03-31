@@ -3,7 +3,7 @@
     "description": "Admin Lte template for yii2 framework",
     "keywords": ["yii2", "bootstrap", "template", "adminlte"],
     "type": "yii2-extension",
-    "license": "",
+    "license": "GPL-3.0",
     "support": {
         "issues": "https://github.com/madedwi/yii-adminlte/issues",
         "source": "https://github.com/madedwi/yii-adminlte"
