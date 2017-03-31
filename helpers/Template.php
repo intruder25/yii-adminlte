@@ -6,7 +6,7 @@ class Template
     public static function skinClass()
     {
         /** @var \dmstr\web\AdminLteAsset $bundle */
-        $bundle = Yii::$app->assetManager->getBundle('adminlte\AdminLteAsset');
+        $bundle = Yii::$app->assetManager->getBundle('madedwi\yii2adminlte\AdminLteAsset');
         return $bundle->skin;
     }
 

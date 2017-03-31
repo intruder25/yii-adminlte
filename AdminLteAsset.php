@@ -17,7 +17,7 @@ class AdminLteAsset extends AssetBundle{
     ];
 
     public $depends = [
-        'adminlte\AdminLtePluginsAsset',
+        'madedwi\yii2adminlte\AdminLtePluginsAsset',
     ];
 
     public $skin = 'skin-blue';
