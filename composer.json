@@ -1,0 +1,32 @@
+{
+    "name": "madedwi/yii2-adminlte",
+    "description": "Admin Lte template for yii2 framework",
+    "keywords": ["yii2", "bootstrap", "template", "adminlte"],
+    "type": "yii2-extension",
+    "license": "",
+    "support": {
+        "issues": "https://github.com/madedwi/yii-adminlte/issues",
+        "source": "https://github.com/madedwi/yii-adminlte"
+    },
+    "authors": [
+        {
+            "name": "I Made Dwi Asmara Putra",
+            "email": "putra.work@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": ">=2.0.6",
+        "yiisoft/yii2-bootstrap": "2.*",
+        "bower-asset/adminlte": "2.3.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "madedwi\\yii2adminlte\\": ""
+        }
+    },
+    "extra": {
+        "asset-installer-paths": {
+            "bower-asset-library": "vendor/bower"
+        }
+    }
+}
